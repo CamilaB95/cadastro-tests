@@ -14,7 +14,7 @@ public class CadastroUsuarioSteps {
     private DriverFactory driverFactory = new DriverFactory();
     private TelaInicialPage telaInicialPage;
     private CadastroUsuarioPage cadastroUsuarioPage;
-    private String cpfCadastrado = "54218474036";
+    private String cpfCadastrado = "62098280009";
     private String senhaCadastrada = "iPhone#08";
 
     @Before
